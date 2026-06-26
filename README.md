@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Informe de Proyecto: Landing Page - Café El Buen Grano
 
 **Nombre del Estudiante:** Luciana Carolina Urrutia Escobar  
@@ -18,6 +17,3 @@ Se aplicó el principio de **Jerarquía Visual**. Esto significa que los botones
 ## Respuestas de "Landing Page de Cafetería - Diseño Responsivo Básico"
 - **¿Por qué utilizamos Flexbox para cambiar la dirección de la imagen y el texto (row a column) en lugar de intentar hacerlo todo únicamente con Grid?**  
 Utilizamos Flexbox para cambiar la dirección de la imagen y el texto porque es ideal para ordenar elementos en una sola dimensión: columna en celular y fila en pantallas grandes. Grid funciona mejor para la estructura general de la página, pero Flexbox permite controlar con más facilidad la alineación interna del producto. Así el diseño se adapta sin romper la lectura ni duplicar código innecesario.
-=======
-# Sesion-8
->>>>>>> 9a7e74bbdaf349925876d7e72e6e9e5a3c3f989c
